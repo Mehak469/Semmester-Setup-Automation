@@ -1,6 +1,6 @@
 # 🎓 Semester Setup Automation
 
-A simple Python project that helps students **automatically create a folder structure** for their semester.
+An Automation project that helps students **automatically create a folder structure** for their semester.
 It saves time and keeps your subjects organized with subfolders like **Books, Notes, Projects, and Assignments**.
 
 ---
@@ -66,6 +66,6 @@ Enter subjects (comma separated): DSA, DBMS, OS
 ✅ Semester setup created at: D:\Semester 4
 ```
 
-## 🧑‍💻 Created By 
+## Created By 
 
 **Mehak Gul**

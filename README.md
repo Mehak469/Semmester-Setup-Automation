@@ -66,6 +66,6 @@ Enter subjects (comma separated): DSA, DBMS, OS
 ✅ Semester setup created at: D:\Semester 4
 ```
 
-## 🧑‍💻 Created By 
+## Created By 
 
 **Mehak Gul**
